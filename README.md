@@ -36,12 +36,6 @@ Se deseja rodar o projeto localmente, siga os passos abaixo:
    ```
 3. Abra o arquivo `index.html` em um navegador.
 
-## 📌 Melhorias Futuras
-
-- Paginação para exibir mais repositórios.
-- Exibição de contribuidores e estrelas dos repositórios.
-- Dark mode para uma melhor experiência do usuário.
-
 ## 📜 Licença
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e contribuir! 😊
